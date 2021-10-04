@@ -1,0 +1,5 @@
+com.mirea.petshop
+com.mirea.petshop.controllers
+com.mirea.petshop.models
+com.mirea.petshop.repositories
+com.mirea.petshop.services

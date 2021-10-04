@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.mirea.petshop"},{"l":"com.mirea.petshop.controllers"},{"l":"com.mirea.petshop.models"},{"l":"com.mirea.petshop.repositories"},{"l":"com.mirea.petshop.services"}];updateSearchResults();
